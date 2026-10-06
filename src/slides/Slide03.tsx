@@ -4,7 +4,7 @@ import type { LessonData } from '@/components/lesson/LessonSlide'
 const data: LessonData = {
   "topic": "1.1 · Binary numbers",
   "title": "Two digits. Endless possibilities.",
-  "subtitle": "A binary digit is a bit. Its value is either 0 or 1.",
+  "subtitle": "A binary digit is a bit. Its value is either 0 or 1",
   "pages": "1–5",
   "kind": "binary",
   "cards": [
