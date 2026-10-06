@@ -10,7 +10,7 @@ const data: LessonData = {
   "cards": [
     {
       "title": "Index",
-      "text": "word[0] is the first character. word[6] is the seventh character."
+      "text": "word[0] is the first character. word[6] is the seventh character"
     },
     {
       "title": "Length",
